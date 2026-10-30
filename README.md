@@ -21,7 +21,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-[✨ Tính năng](#-1-tính-năng-nổi-bật) • [🗺️ Lộ trình](#️-2-lộ-trình-phát-triển-roadmap) • [🏗️ Kiến trúc](#-3-kiến-trúc-hệ-thống) • [📊 Đối chuẩn A* vs RL](#-4-sàn-đấu-đối-chuẩn-a-vs-d3qn) • [⚡ Khởi chạy](#-5-khởi-chạy-nhanh)
+[✨ Tính năng](#-1-tính-năng-nổi-bật) • [🗺️ Lộ trình](#️-2-lộ-trình-phát-triển-roadmap) • [🏗️ Kiến trúc](#-3-kiến-trúc-hệ-thống) • [🛡️ Khung Chất lượng](#-6-mô-hình-vận-hành-7-chuyên-gia-ai) • [⚡ Khởi chạy](#-5-khởi-chạy-nhanh)
 
 </div>
 
@@ -254,6 +254,7 @@ Dự án được xây dựng và kiểm soát chất lượng bởi đội ngũ
                +-----------------+           +-----------------+
 ```
 
+- [ENGINEERING_FRAMEWORK.md](ENGINEERING_FRAMEWORK.md): Khung kỹ thuật chất lượng cao, 5 Quality Gates & Definition of Done.
 - [SYSTEM_ARCHITECTURE.md](SYSTEM_ARCHITECTURE.md): Kiến trúc phân tầng và 11 hợp đồng kỹ thuật.
 - [ROADMAP.md](ROADMAP.md): Kế hoạch chi tiết 6 Phase và mở rộng V2/V3.
 - [DECISION_LOG.md](DECISION_LOG.md): Nhật ký 10 quyết định kiến trúc quan trọng (ADR-001 $\rightarrow$ ADR-010).
