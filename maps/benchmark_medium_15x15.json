@@ -1,0 +1,24 @@
+{
+  "map_id": "benchmark_medium_15x15",
+  "name": "Standard Warehouse with Shelves (Medium)",
+  "difficulty": "MEDIUM",
+  "grid_size": {
+    "width": 15,
+    "height": 15
+  },
+  "start_pos": [1, 1],
+  "goal_pos": [13, 13],
+  "charging_dock": [1, 13],
+  "obstacles": [
+    [3, 2], [3, 3], [3, 4], [3, 5], [3, 6],
+    [7, 8], [7, 9], [7, 10], [7, 11], [7, 12],
+    [11, 2], [11, 3], [11, 4], [11, 5], [11, 6],
+    [5, 2], [6, 2],
+    [8, 12], [9, 12]
+  ],
+  "metadata": {
+    "description": "Bản đồ nhà kho thực tế với 3 dãy kệ hàng song song và hành lang trung chuyển, kiểm tra khả năng rẽ hướng chính xác.",
+    "min_steps_optimal": 24,
+    "created_at": "2026-10-30T15:00:00Z"
+  }
+}
