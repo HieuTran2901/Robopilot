@@ -4,6 +4,9 @@
 
 # Internal Agent Scaffolding & System Configuration
 AGENT_PROMPTS.md
+.project/
+.robopilot/
+.linqaro/
 .system_generated/
 .gemini/
 scratch/
